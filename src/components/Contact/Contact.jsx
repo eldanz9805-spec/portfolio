@@ -112,7 +112,7 @@ ${message}
           >
             <div className="contact__profile">
               <div className="contact__avatar">
-                <img src="/profile/zidan.jpg" alt="Moch Zidan" />
+                <img src="/profile/profil zidan 2.jpeg" alt="Moch Zidan" />
               </div>
 
               <div>

@@ -74,7 +74,7 @@ export default function Hero() {
           transition={{ duration: 0.85, delay: 0.18, ease: 'easeOut' }}
         >
           <div className="hero__image-card">
-            <img src="/profile/zidan.jpg" alt="Moch Zidan" />
+            <img src="/profile/profil zidan 1.jpeg" alt="Moch Zidan" />
 
             <div className="hero__status">
               <span></span>

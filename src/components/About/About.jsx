@@ -70,7 +70,7 @@ export default function About() {
           >
             <div className="about__photo-wrap">
               <div className="about__photo">
-                <img src="/profile/zidan.jpg" alt="Moch Zidan" />
+                <img src="/profile/profil zidan 2.jpeg" alt="Moch Zidan" />
               </div>
             </div>
 

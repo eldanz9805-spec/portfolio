@@ -148,7 +148,7 @@ export default function Skills() {
         >
           <div className="skills__slider-header">
             <span>Tech Stack</span>
-            <p>Bergerak otomatis</p>
+            
           </div>
 
           <div className="skills__slider">
